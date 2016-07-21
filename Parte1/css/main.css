@@ -1,0 +1,13 @@
+/* Escribe tu css aqui */
+
+.amarillo {
+display         : block;
+background-color: #FFFF00;
+height          : 200px;
+
+}
+.rojo {
+display         : block;
+background-color: #FF0000;
+height          : 200px;	
+}

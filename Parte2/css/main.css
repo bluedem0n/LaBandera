@@ -1,0 +1,22 @@
+	/* Escribe tu css aqui */
+	
+	.amarillo {
+	display: block;
+	background-color: #FFFF00;
+	height: 200px;
+	width: 350px;
+	
+	
+	}
+	.rojo {
+	display: block;
+	background-color: #FF0000;
+	height: 200px;	
+	width: 350px;
+	
+	}
+	
+	p{
+	margin-left: 5px;
+	padding-top: 8px;
+	}
